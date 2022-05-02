@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugrahan</h1>
 <h3 align="center">A passionate and enthusiastic backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Go**
-
-- 👨‍💻 All of my projects are available at [https://github.com/bugrahanceker17?tab=repositories](https://github.com/bugrahanceker17?tab=repositories)
+- 🌱 I’m currently learning <b>**Go**</b>
 
 - 📫 How to reach me **bugrahanceker@gmail.com**
 
